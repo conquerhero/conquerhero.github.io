@@ -1,2 +1,0 @@
-# conquerhero.github.io
-blog
